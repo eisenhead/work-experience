@@ -1,0 +1,4 @@
+- basics of navigating files with the command line/terminal
+- learned about git github and its uses
+- github is basicly code google drive
+- programmed some java
